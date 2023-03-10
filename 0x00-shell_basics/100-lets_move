@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [[:uppe:]] * /tmp/U
+mv [[:uppe:]] * /tmp/u
